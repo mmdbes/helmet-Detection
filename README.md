@@ -20,7 +20,7 @@ mAP@50-95 = 0.491
 | Class | Precision | Recall | mAP@50 |
 |With Helmet| 0.842 | 0.889 | 0.896 |
 |Without Helmet| 0.769 | 0.733 | 0.793 |
-![Helmet Detection Output](download.PNG)
+![Helmet Detection Output](download.png)
 
 
 # Tech Stack & Tools
